@@ -1,0 +1,41 @@
+body {
+  background-color: burlywood;
+}
+marquee {
+  background-color: lime;
+}
+h2 {
+  width: 1000px;
+  font-size: 50px;
+  background: rgb(253, 0, 118);
+  font-style: initial;
+}
+h3 {
+  width: 1000px;
+  background: lightyellow;
+  font-size: 30px;
+  font-style: oblique;
+}
+input[type="text"] {
+  width: 600px;
+  height: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 40px;
+}
+input[type="submit"] {
+  font-size: 25px;
+  width: 100px;
+  height: 45px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+input[type="reset"] {
+  font-size: 25px;
+  width: 100px;
+  height: 45px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+form {
+  font-size: 30px;
+  background: mediumaquamarine;
+  width: 600;
+}
